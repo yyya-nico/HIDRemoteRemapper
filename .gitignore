@@ -1,0 +1,14 @@
+# Build outputs
+/HIDRemoteRemapper.exe
+*.pdb
+/bin/
+/obj/
+
+# Runtime logs and self-test results
+*.log
+/self-test.txt
+
+# Local IDE settings
+/.vs/
+*.user
+*.suo
